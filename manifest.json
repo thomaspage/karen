@@ -8,7 +8,9 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://thomaspage.github.io/karen",
+  "scope": "https://thomaspage.github.io/karen",
+  "orientation": "landscape",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
