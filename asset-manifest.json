@@ -1,13 +1,13 @@
 {
   "main.css": "/karen/static/css/main.0f13f603.chunk.css",
-  "main.js": "/karen/static/js/main.0873c67d.chunk.js",
-  "main.js.map": "/karen/static/js/main.0873c67d.chunk.js.map",
+  "main.js": "/karen/static/js/main.88fae3c1.chunk.js",
+  "main.js.map": "/karen/static/js/main.88fae3c1.chunk.js.map",
   "runtime~main.js": "/karen/static/js/runtime~main.4ebcc9c1.js",
   "runtime~main.js.map": "/karen/static/js/runtime~main.4ebcc9c1.js.map",
   "static/js/2.ccd92a99.chunk.js": "/karen/static/js/2.ccd92a99.chunk.js",
   "static/js/2.ccd92a99.chunk.js.map": "/karen/static/js/2.ccd92a99.chunk.js.map",
   "index.html": "/karen/index.html",
-  "precache-manifest.b0d3505dd322817e5e0ae921718461af.js": "/karen/precache-manifest.b0d3505dd322817e5e0ae921718461af.js",
+  "precache-manifest.bdb20af4a218b4e71e00b2cb7f5ff4d0.js": "/karen/precache-manifest.bdb20af4a218b4e71e00b2cb7f5ff4d0.js",
   "service-worker.js": "/karen/service-worker.js",
   "static/css/main.0f13f603.chunk.css.map": "/karen/static/css/main.0f13f603.chunk.css.map"
 }
