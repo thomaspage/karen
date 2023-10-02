@@ -63,8 +63,8 @@ class App extends Component {
           onStop={this.onStop}
         />
 
-        <button onClick={this.start}>Start</button>
-        <button onClick={this.stop}>Stop</button>
+        {/* <button onClick={this.start}>Start</button>
+        <button onClick={this.stop}>Stop</button> */}
       </div>
     )
   }
